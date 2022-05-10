@@ -1948,7 +1948,7 @@
     (uuid ba8a5cbf-6c41-4bc4-a149-4dec895bdc0e)
     (property "Reference" "U1" (id 0) (at 58.42 21.59 0))
     (property "Value" "AMS1117-3.3" (id 1) (at 58.42 24.13 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 58.42 24.13 0)
+    (property "Footprint" "" (id 2) (at 58.42 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf" (id 3) (at 60.96 35.56 0)
@@ -2139,10 +2139,10 @@
 
   (symbol_instances
     (path "/b17aea1f-56dd-4513-bc82-c4a6c326f278"
-      (reference "C1") (unit 1) (value "10uf, 20v") (footprint "")
+      (reference "C1") (unit 1) (value "10uf, 20v") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/892c2ce4-3701-4250-accf-fd778c33b016"
-      (reference "C2") (unit 1) (value "100nf") (footprint "")
+      (reference "C2") (unit 1) (value "100nf") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/dd07efd4-24c4-483d-a118-ed58a9223c8c"
       (reference "J1") (unit 1) (value "22-23-2021") (footprint "digikey-footprints:PinHeader_1x2_P2.54mm_Drill1.02mm")
@@ -2178,43 +2178,43 @@
       (reference "Q8") (unit 1) (value "2N2222A") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/1bea497f-a84d-41fd-8c04-7c9432823fdb"
-      (reference "R1") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R1") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/f1b96db4-dc26-4eb6-94e5-34aad54dffd2"
-      (reference "R2") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R2") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/54b4ec1b-13d4-4510-8abf-0b34fdfd6fa9"
-      (reference "R3") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R3") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/c1ec2e1b-1582-4102-b131-0de181da6712"
-      (reference "R4") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R4") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/58b94700-b19e-4d6b-86d1-5a2946640f08"
-      (reference "R5") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R5") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/10ccd1f6-8ac0-41a6-beb0-93a566f4e739"
-      (reference "R6") (unit 1) (value "2k") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "R6") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/667abeaf-dd57-4992-b06e-3100b0f5c38a"
-      (reference "R7") (unit 1) (value "2k") (footprint "")
+      (reference "R7") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/5f7abf39-26f2-4536-b8f1-76a2d72c7a58"
-      (reference "R8") (unit 1) (value "2k") (footprint "")
+      (reference "R8") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4db1f8a7-0ed9-499e-b9c7-c78238ae0fe3"
-      (reference "R9") (unit 1) (value "10k") (footprint "")
+      (reference "R9") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/38cbd0f1-9528-468e-aaf4-b0ba0d6b629e"
-      (reference "R10") (unit 1) (value "10k") (footprint "")
+      (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b951ffdc-ca9f-46c3-aba2-5b22d1f3fc55"
-      (reference "R11") (unit 1) (value "10k") (footprint "")
+      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/43452d5b-ba44-4473-b7ed-b0e4c7902559"
-      (reference "R12") (unit 1) (value "10k") (footprint "")
+      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ba8a5cbf-6c41-4bc4-a149-4dec895bdc0e"
-      (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223")
     )
   )
 )
